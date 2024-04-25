@@ -1,0 +1,14 @@
+C:\Users\L0716995\source\repos\POO-Clase2\POO-Clase2\bin\Debug\net6.0\POO-Clase2.exe
+C:\Users\L0716995\Source\Repos\POO-Clase2\POO-Clase2\bin\Debug\net6.0\POO-Clase2.deps.json
+C:\Users\L0716995\Source\Repos\POO-Clase2\POO-Clase2\bin\Debug\net6.0\POO-Clase2.runtimeconfig.json
+C:\Users\L0716995\source\repos\POO-Clase2\POO-Clase2\bin\Debug\net6.0\POO-Clase2.dll
+C:\Users\L0716995\source\repos\POO-Clase2\POO-Clase2\bin\Debug\net6.0\POO-Clase2.pdb
+C:\Users\L0716995\source\repos\POO-Clase2\POO-Clase2\obj\Debug\net6.0\POO-Clase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L0716995\source\repos\POO-Clase2\POO-Clase2\obj\Debug\net6.0\POO-Clase2.AssemblyInfoInputs.cache
+C:\Users\L0716995\source\repos\POO-Clase2\POO-Clase2\obj\Debug\net6.0\POO-Clase2.AssemblyInfo.cs
+C:\Users\L0716995\source\repos\POO-Clase2\POO-Clase2\obj\Debug\net6.0\POO-Clase2.csproj.CoreCompileInputs.cache
+C:\Users\L0716995\source\repos\POO-Clase2\POO-Clase2\obj\Debug\net6.0\POO-Clase2.dll
+C:\Users\L0716995\source\repos\POO-Clase2\POO-Clase2\obj\Debug\net6.0\refint\POO-Clase2.dll
+C:\Users\L0716995\source\repos\POO-Clase2\POO-Clase2\obj\Debug\net6.0\POO-Clase2.pdb
+C:\Users\L0716995\Source\Repos\POO-Clase2\POO-Clase2\obj\Debug\net6.0\POO-Clase2.genruntimeconfig.cache
+C:\Users\L0716995\Source\Repos\POO-Clase2\POO-Clase2\obj\Debug\net6.0\ref\POO-Clase2.dll
